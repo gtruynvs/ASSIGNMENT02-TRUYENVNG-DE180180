@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|d:\\university\\sem5\\prn212\\code\\assign-2\\vongocgiatruyen_de180180_se18b02_a02\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|d:\\university\\sem5\\prn212\\code\\assign-2\\vongocgiatruyen_de180180_se18b02_a02\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E2F8D2-415C-4FAC-B3D8-91199D14820C}|Repositories\\Repositories.csproj|d:\\university\\sem5\\prn212\\code\\assign-2\\vongocgiatruyen_de180180_se18b02_a02\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E2F8D2-415C-4FAC-B3D8-91199D14820C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312AB04D-3195-48C0-BA90-3A7E92D6F871}|DataAccessLayer\\DataAccessLayer.csproj|d:\\university\\sem5\\prn212\\code\\assign-2\\vongocgiatruyen_de180180_se18b02_a02\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312AB04D-3195-48C0-BA90-3A7E92D6F871}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312AB04D-3195-48C0-BA90-3A7E92D6F871}|DataAccessLayer\\DataAccessLayer.csproj|d:\\university\\sem5\\prn212\\code\\assign-2\\vongocgiatruyen_de180180_se18b02_a02\\dataaccesslayer\\migrations\\20241031182638_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312AB04D-3195-48C0-BA90-3A7E92D6F871}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241031182638_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|d:\\university\\sem5\\prn212\\code\\assign-2\\vongocgiatruyen_de180180_se18b02_a02\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|d:\\university\\sem5\\prn212\\code\\assign-2\\vongocgiatruyen_de180180_se18b02_a02\\businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|d:\\university\\sem5\\prn212\\code\\assign-2\\vongocgiatruyen_de180180_se18b02_a02\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:02:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomType.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\RoomType.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:00:31.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInformation.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:00:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:00:22.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:00:16.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:02:21.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\BusinessObjects\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:00:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241031182638_v1.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\DataAccessLayer\\Migrations\\20241031182638_v1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241031182638_v1.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\Assign-2\\VoNgocGiaTruyen_DE180180_SE18B02_A02\\DataAccessLayer\\Migrations\\20241031182638_v1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241031182638_v1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:57:33.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
